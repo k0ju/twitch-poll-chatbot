@@ -1,0 +1,14 @@
+{
+  "name": "twitch-poll-chatbot",
+  "version": "1.0.0",
+  "description": "simple bot for polls in twitch chat",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k0ju",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}

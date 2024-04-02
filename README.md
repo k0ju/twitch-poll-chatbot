@@ -3,7 +3,7 @@ Simple Twitch Bot created with Node.JS using the tmi.js module for determining v
 
 ------
 
-## Requirements?
+## Requirements
 You will need:
 * [NodeJS](https://nodejs.org/en/)
 * [TMI.JS](https://tmijs.org/)
